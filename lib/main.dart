@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:recipes_app/recipes_home.dart';
+import 'recipes_home.dart';
 
 void main() => runApp(MyApp());
 
